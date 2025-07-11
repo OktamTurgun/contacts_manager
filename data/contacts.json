@@ -1,17 +1,22 @@
 [
     {
-        "name": "Vali",
-        "phone": "+998905678943",
-        "email": "valijon@43gmail.com"
-    },
-    {
         "name": "Ahmad",
         "phone": "+998977564321",
         "email": "ahmad@321gmail.com"
     },
     {
-        "name": "Alisher",
-        "phone": "+998977896543",
-        "email": "sher@77gmail.com"
+        "name": "Botir",
+        "phone": "998990155433",
+        "email": "tirBo@90gmail.com"
+    },
+    {
+        "name": "Olim",
+        "phone": "+998988789889",
+        "email": "olimjon@Examlegmail.com"
+    },
+    {
+        "name": "Vali",
+        "phone": "+998905678944",
+        "email": "valijon@43gmail.com"
     }
 ]
