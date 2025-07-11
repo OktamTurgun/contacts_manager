@@ -26,10 +26,8 @@ def show_contacts(contacts):
 
 
 def validate_phone(phone):
-    # boshidagi va ichidagi bo‘sh joylarni olib tashlaymiz
     phone = phone.replace(" ", "").replace("-", "")
 
-    # boshida + bo‘lsa, uni ajratamiz
     if phone.startswith('+'):
         phone = phone[1:]
 
